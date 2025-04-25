@@ -1,0 +1,6 @@
+train: D:/ArrhythmiaDetection_v8/datasets/data/train/images
+val: D:/ArrhythmiaDetection_v8/datasets/data/valid/images
+test: D:/ArrhythmiaDetection_v8/datasets/data/test/images
+
+nc: 6
+names: ['Left Bundle Branch Block', 'Normal', 'Premature Atrial Contraction', 'Premature Ventricular Contractions', 'Right Bundle Branch Block', 'Ventricular Fibrillation']
